@@ -1,7 +1,7 @@
 # Звіт: Налаштування Jenkins CI/CD Pipeline
 
 ## Скріншоти
-Всі скріншоти до роботи знаходяться у папці: [screenshots/](screenshots/)
+Всі скріншоти до роботи знаходяться у папці: [screenshots/](https://github.com/pil038/devsecops-jenkins/tree/main/screenshots) або у файлі [README.pdf](https://github.com/pil038/devsecops-jenkins/blob/main/README.pdf)
 
 ---
 
